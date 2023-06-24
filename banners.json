@@ -12,7 +12,9 @@
     {
       "id": 2,
       "image": "https://george-fx.github.io/beloni/banners/02.png",
-      "title1": "Get Your 50% Off!",
+      "title": "Get Your 50% Off!",
+      "description1": "Labore sunt culpa excepteur",
+      "description2": "culpa ipsum.",
       "btnText": "shop now"
     }
   ]
