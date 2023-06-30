@@ -2,8 +2,8 @@
     "products": [
       {
         "id": 1,
-        "name": "Warm winter hat",
-        "price": 12.7,
+        "name": "Long sleeve shirt",
+        "price": 6.93,
         "image": "https://george-fx.github.io/beloni/products/01.jpg",
         "images": [
           "https://george-fx.github.io/beloni/products/01.jpg",
@@ -12,7 +12,7 @@
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+        "colors": ["camel", "sandyBrown", "brinkPink", "cadetBlue", "dimGray", "squidInk"],
         "tags": [
           "kids",
           "men",
@@ -24,10 +24,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": true,
@@ -81,7 +78,7 @@
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+        "colors": ["camel", "sandyBrown", "brinkPink", "cadetBlue", "dimGray", "squidInk"],
         "tags": [
           "kids",
           "men",
@@ -149,7 +146,7 @@
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+        "colors": ["camel", "sandyBrown", "brinkPink", "cadetBlue", "dimGray", "squidInk"],
         "tags": [
           "kids",
           "men",
@@ -217,7 +214,7 @@
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+        "colors": ["camel", "sandyBrown", "brinkPink", "cadetBlue", "dimGray", "squidInk"],
         "tags": [
           "kids",
           "men",
@@ -627,7 +624,7 @@
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+        "colors": ["camel", "sandyBrown", "brinkPink", "cadetBlue", "dimGray", "squidInk"],
         "tags": [
           "kids",
           "men",
@@ -711,7 +708,7 @@
           "polo",
           "skirt"
         ],
-        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+        "colors": ["camel", "sandyBrown", "brinkPink", "cadetBlue", "dimGray", "squidInk"],
         "rating": 5.0,
         "is_bestseller": false,
         "is_featured": true,
