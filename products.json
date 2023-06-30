@@ -90,10 +90,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": true,
@@ -158,10 +155,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": true,
@@ -226,10 +220,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": true,
@@ -294,10 +285,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": true,
@@ -363,10 +351,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": true,
@@ -431,10 +416,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": false,
@@ -499,10 +481,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": false,
@@ -568,10 +547,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": false,
@@ -636,10 +612,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "rating": 5.0,
         "is_bestseller": false,
@@ -703,10 +676,7 @@
           "hat",
           "unisex",
           "bag",
-          "accessories",
-          "t-shoes",
-          "polo",
-          "skirt"
+          "accessories"
         ],
         "colors": ["camel", "sandyBrown", "brinkPink", "cadetBlue", "dimGray", "squidInk"],
         "rating": 5.0,
