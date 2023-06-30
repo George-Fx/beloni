@@ -4,11 +4,11 @@
         "id": 1,
         "name": "Long sleeve shirt",
         "price": 6.93,
-        "image": "https://george-fx.github.io/beloni/products/01.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/01.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/01.jpg",
-          "https://george-fx.github.io/beloni/products/01.jpg",
-          "https://george-fx.github.io/beloni/products/01.jpg"
+          "https://george-fx.github.io/beloni/products-01/01.jpg",
+          "https://george-fx.github.io/beloni/products-01/01.jpg",
+          "https://george-fx.github.io/beloni/products-01/01.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -70,11 +70,11 @@
         "name": "Shor summer dress",
         "price": 129.0,
         "old_price": 150.0,
-        "image": "https://george-fx.github.io/beloni/products/02.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/02.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/02.jpg",
-          "https://george-fx.github.io/beloni/products/02.jpg",
-          "https://george-fx.github.io/beloni/products/02.jpg"
+          "https://george-fx.github.io/beloni/products-01/02.jpg",
+          "https://george-fx.github.io/beloni/products-01/02.jpg",
+          "https://george-fx.github.io/beloni/products-01/02.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -138,11 +138,11 @@
         "id": 3,
         "name": "Long summer dress",
         "price": 245.9,
-        "image": "https://george-fx.github.io/beloni/products/03.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/03.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/03.jpg",
-          "https://george-fx.github.io/beloni/products/03.jpg",
-          "https://george-fx.github.io/beloni/products/03.jpg"
+          "https://george-fx.github.io/beloni/products-01/03.jpg",
+          "https://george-fx.github.io/beloni/products-01/03.jpg",
+          "https://george-fx.github.io/beloni/products-01/03.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -206,11 +206,11 @@
         "id": 4,
         "name": "Long summer skirt",
         "price": 59.0,
-        "image": "https://george-fx.github.io/beloni/products/04.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/04.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/04.jpg",
-          "https://george-fx.github.io/beloni/products/04.jpg",
-          "https://george-fx.github.io/beloni/products/04.jpg"
+          "https://george-fx.github.io/beloni/products-01/04.jpg",
+          "https://george-fx.github.io/beloni/products-01/04.jpg",
+          "https://george-fx.github.io/beloni/products-01/04.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -274,11 +274,11 @@
         "id": 5,
         "name": "Summer shorts",
         "price": 39.6,
-        "image": "https://george-fx.github.io/beloni/products/05.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/05.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/05.jpg",
-          "https://george-fx.github.io/beloni/products/05.jpg",
-          "https://george-fx.github.io/beloni/products/05.jpg"
+          "https://george-fx.github.io/beloni/products-01/05.jpg",
+          "https://george-fx.github.io/beloni/products-01/05.jpg",
+          "https://george-fx.github.io/beloni/products-01/05.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -343,11 +343,11 @@
         "name": "Evening dress",
         "price": 149.9,
         "old_price": 185.0,
-        "image": "https://george-fx.github.io/beloni/products/06.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/06.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/06.jpg",
-          "https://george-fx.github.io/beloni/products/06.jpg",
-          "https://george-fx.github.io/beloni/products/06.jpg"
+          "https://george-fx.github.io/beloni/products-01/06.jpg",
+          "https://george-fx.github.io/beloni/products-01/06.jpg",
+          "https://george-fx.github.io/beloni/products-01/06.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -411,11 +411,11 @@
         "id": 7,
         "name": "Long sleeve shirt",
         "price": 76.0,
-        "image": "https://george-fx.github.io/beloni/products/07.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/07.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/07.jpg",
-          "https://george-fx.github.io/beloni/products/07.jpg",
-          "https://george-fx.github.io/beloni/products/07.jpg"
+          "https://george-fx.github.io/beloni/products-01/07.jpg",
+          "https://george-fx.github.io/beloni/products-01/07.jpg",
+          "https://george-fx.github.io/beloni/products-01/07.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -479,11 +479,11 @@
         "id": 8,
         "name": "Warm winter hat",
         "price": 8.6,
-        "image": "https://george-fx.github.io/beloni/products/08.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/08.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/08.jp",
-          "https://george-fx.github.io/beloni/products/08.jp",
-          "https://george-fx.github.io/beloni/products/08.jp"
+          "https://george-fx.github.io/beloni/products-01/08.jp",
+          "https://george-fx.github.io/beloni/products-01/08.jp",
+          "https://george-fx.github.io/beloni/products-01/08.jp"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -548,11 +548,11 @@
         "name": "Summer beach hat",
         "price": 24.5,
         "old_price": 38.0,
-        "image": "https://george-fx.github.io/beloni/products/09.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/09.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/09.jpg",
-          "https://george-fx.github.io/beloni/products/09.jpg",
-          "https://george-fx.github.io/beloni/products/09.jpg"
+          "https://george-fx.github.io/beloni/products-01/09.jpg",
+          "https://george-fx.github.io/beloni/products-01/09.jpg",
+          "https://george-fx.github.io/beloni/products-01/09.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -616,11 +616,11 @@
         "id": 10,
         "name": "Small leather backpack",
         "price": 167.5,
-        "image": "https://george-fx.github.io/beloni/products/10.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/10.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/10.jpg",
-          "https://george-fx.github.io/beloni/products/10.jpg",
-          "https://george-fx.github.io/beloni/products/10.jpg"
+          "https://george-fx.github.io/beloni/products-01/10.jpg",
+          "https://george-fx.github.io/beloni/products-01/10.jpg",
+          "https://george-fx.github.io/beloni/products-01/10.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -684,11 +684,11 @@
         "id": 11,
         "name": "Modern undershirt",
         "price": 33.7,
-        "image": "https://george-fx.github.io/beloni/products/11.jpg",
+        "image": "https://george-fx.github.io/beloni/products-01/11.jpg",
         "images": [
-          "https://george-fx.github.io/beloni/products/11.jpg",
-          "https://george-fx.github.io/beloni/products/11.jpg",
-          "https://george-fx.github.io/beloni/products/11.jpg"
+          "https://george-fx.github.io/beloni/products-01/11.jpg",
+          "https://george-fx.github.io/beloni/products-01/11.jpg",
+          "https://george-fx.github.io/beloni/products-01/11.jpg"
         ],
         "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
         "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
